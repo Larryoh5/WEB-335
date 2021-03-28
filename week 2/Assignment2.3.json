@@ -1,0 +1,96 @@
+{
+    "_id": 301,
+    "first_name": "John",
+    "last_name": "McMillan",
+    "mi":"B",
+    "enroll":[
+        {
+            "_id":302,
+            "grade": "B",
+            "class": [
+                {
+                    "_id": 323,
+                    "name": "Economics"
+                },
+                {
+                    "_id": 223,
+                    "name": "Calculus" 
+                }
+            ]
+        },
+        {
+            "_id":202,
+            "grade": "B",
+            "class": [
+                {
+                    "_id": 423,
+                    "name": "Geometry"
+                },
+                {
+                    "_id": 223,
+                    "name": "Anthropology" 
+                } 
+            ] 
+        }
+    ]
+}
+
+
+
+
+
+
+
+{
+    "_id": 301,
+    "first_name": "John",
+    "last_name": "McMillan",
+    "date_of_birth":{
+        "month":7,
+        "day": 14,
+        "year": 1995
+          
+    },
+    "user_name": "lohaka13",
+    "invoice"[
+        {
+            "_id":404,
+            "date_created": {"month": 5, "day":23, "year": 2020},
+            "date_shipped": {"month": 5, "day":23, "year": 2020},
+            "subtotal": 89.99,
+            "tax":7.93,
+            "total":97.92,
+            "line-item":[
+                {
+                "_id": 5932,
+                "name": "Calc III",
+                "price": 45.96,
+                "quantity": 1
+                },
+                {
+                    "_id": 7453,
+                    "name": "Anthropology III",
+                    "price": 50.96,
+                    "quantity": 1  
+                }
+            ]
+        },
+        {
+            "_id":404,
+            "date_created": {"month": 6, "day":26, "year": 2020},
+            "date_shipped": {"month": 6, "day":26, "year": 2020},
+            "subtotal": 59.99,
+            "tax":4.93,
+            "total":64.92,
+            "line-item":[
+                {
+                "_id": 3463,
+                "name": "Geometry II",
+                "price": 45.96,
+                "quantity": 1  
+        }
+    ]
+}
+    ]
+}
+    
