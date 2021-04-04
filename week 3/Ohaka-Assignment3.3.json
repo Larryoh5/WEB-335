@@ -1,0 +1,27 @@
+{
+    "publisher_name": "Gusenga",
+    "publisher_code": "040296",
+    "publisher_address": {
+      "street": "309 Selby Ave ",
+      "city": "St Paul",
+      "state": "Minnesota",
+      "zip": "55112"
+    },
+
+    "books": [
+      {
+        "book_name": "Sacred Woman",
+        "book_price": "24.95",
+        "book_isbn": "3342942",
+        "authors": [
+          {
+            "author_first_name": "Afua",
+            "author_last_name": "Queen",
+            "author_phone": "555-232-5531",
+            "author_email": "Hotgirl@gmail.com"
+          }
+        ]
+      }
+
+    ]
+  }

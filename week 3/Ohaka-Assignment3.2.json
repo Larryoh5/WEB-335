@@ -1,0 +1,25 @@
+{
+    "user": "Sulu",
+    "_id": 22201,
+    "firstName": "George",
+    "lastName": "Takei",
+    "roles": [
+      {
+        "role": "Copy writer",
+        "permissions": [
+            { "admin": true }, 
+            { "read": true }, 
+            { "delete": true }, 
+            { "write": true }
+        ]
+      },
+      {
+        "role": "Designer",
+        "permissions": [
+            { "admin": false }, 
+            { "read": true }, 
+            { "delete": true }, 
+            { "write": false }]
+      }
+    ]
+  }
